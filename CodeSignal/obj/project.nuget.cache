@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oZa4J8hsU8U2XlxD9ZcOIktVUL+9sjxJqAqCDYGOuP469F+DLhtKKFoiBL4fbyEhNdJQKXTdWVSv0TK10zl3bQ==",
+  "dgSpecHash": "EH738ELt6gxKCnXUTUEgcv8RQ7iiRaok7DhONQ/Y1X63ski+RG+xSRwYnqWkdnKNViS6SHbUEHNT/ssld+uwbg==",
   "success": true,
-  "projectFilePath": "/Users/alfonsoridao/Projects/RiderProjects/TrainingTest/TrainingTest/TrainingTest.csproj",
+  "projectFilePath": "/Users/alfonsoridao/Projects/RiderProjects/TrainingTest/CodeSignal/CodeSignal.csproj",
   "expectedPackageFiles": [
     "/Users/alfonsoridao/.nuget/packages/microsoft.codecoverage/17.4.0-preview-20220726-02/microsoft.codecoverage.17.4.0-preview-20220726-02.nupkg.sha512",
     "/Users/alfonsoridao/.nuget/packages/microsoft.net.test.sdk/17.4.0-preview-20220726-02/microsoft.net.test.sdk.17.4.0-preview-20220726-02.nupkg.sha512",

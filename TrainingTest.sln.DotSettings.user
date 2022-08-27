@@ -10,5 +10,9 @@
     &lt;TestId&gt;xUnit::33DABC82-C5A6-4B3E-89E6-C4DD054F8DB7::net6.0::TrainingTest.Exercises.Edge_Of_The_Ocean.almostIncreasingSequence.Test&lt;/TestId&gt;
     &lt;TestId&gt;xUnit::33DABC82-C5A6-4B3E-89E6-C4DD054F8DB7::net6.0::TrainingTest.Exercises.FreeRomCodeBots.Test&lt;/TestId&gt;
     &lt;TestId&gt;xUnit::33DABC82-C5A6-4B3E-89E6-C4DD054F8DB7::net6.0::TrainingTest.Exercises.The_Journey_Begins.ChechPalindrome.Test1&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::33DABC82-C5A6-4B3E-89E6-C4DD054F8DB7::net6.0::TrainingTest.Arcade.Intro.Smooth_Sailing.AllLongestStrings.Test&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::33DABC82-C5A6-4B3E-89E6-C4DD054F8DB7::net6.0::TrainingTest.Arcade.Intro.Smooth_Sailing.commonCharacterCount.Test1&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::33DABC82-C5A6-4B3E-89E6-C4DD054F8DB7::net6.0::TrainingTest.Arcade.Intro.Smooth_Sailing.IsLucky.Test&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::33DABC82-C5A6-4B3E-89E6-C4DD054F8DB7::net6.0::TrainingTest.Arcade.Intro.Smooth_Sailing.SortbyHeight.Test&lt;/TestId&gt;
   &lt;/TestAncestor&gt;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

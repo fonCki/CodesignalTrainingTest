@@ -5557,11 +5557,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/alfonsoridao/Projects/RiderProjects/TrainingTest/TrainingTest/TrainingTest.csproj",
-      "projectName": "TrainingTest",
-      "projectPath": "/Users/alfonsoridao/Projects/RiderProjects/TrainingTest/TrainingTest/TrainingTest.csproj",
+      "projectUniqueName": "/Users/alfonsoridao/Projects/RiderProjects/TrainingTest/CodeSignal/CodeSignal.csproj",
+      "projectName": "CodeSignal",
+      "projectPath": "/Users/alfonsoridao/Projects/RiderProjects/TrainingTest/CodeSignal/CodeSignal.csproj",
       "packagesPath": "/Users/alfonsoridao/.nuget/packages/",
-      "outputPath": "/Users/alfonsoridao/Projects/RiderProjects/TrainingTest/TrainingTest/obj/",
+      "outputPath": "/Users/alfonsoridao/Projects/RiderProjects/TrainingTest/CodeSignal/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/alfonsoridao/.nuget/NuGet/NuGet.Config"
