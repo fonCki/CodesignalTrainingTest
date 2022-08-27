@@ -1,0 +1,14 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=1878495f_002D4ec8_002D438d_002Dba2c_002D9630abc1203d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Test1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::33DABC82-C5A6-4B3E-89E6-C4DD054F8DB7::net6.0::TrainingTest.XunitTest.Test1&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::33DABC82-C5A6-4B3E-89E6-C4DD054F8DB7::net6.0::TrainingTest.TestAndUnitTest.Test1&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::33DABC82-C5A6-4B3E-89E6-C4DD054F8DB7::net6.0::TrainingTest.Exercises.FreeRomCodeBots.Test1&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::33DABC82-C5A6-4B3E-89E6-C4DD054F8DB7::net6.0::TrainingTest.Exercises.Edge_Of_The_Ocean.adjacentElementsProduct.Test1&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::33DABC82-C5A6-4B3E-89E6-C4DD054F8DB7::net6.0::TrainingTest.Exercises.Edge_Of_The_Ocean.shapeArea.Test&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::33DABC82-C5A6-4B3E-89E6-C4DD054F8DB7::net6.0::TrainingTest.Exercises.Edge_Of_The_Ocean.MakeArrayConsecutive2.Test&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::33DABC82-C5A6-4B3E-89E6-C4DD054F8DB7::net6.0::TrainingTest.Exercises.Edge_Of_The_Ocean.almostIncreasingSequence.Test&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::33DABC82-C5A6-4B3E-89E6-C4DD054F8DB7::net6.0::TrainingTest.Exercises.FreeRomCodeBots.Test&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::33DABC82-C5A6-4B3E-89E6-C4DD054F8DB7::net6.0::TrainingTest.Exercises.The_Journey_Begins.ChechPalindrome.Test1&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
